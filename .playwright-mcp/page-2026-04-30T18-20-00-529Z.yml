@@ -1,0 +1,39 @@
+- main [ref=e3]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - img [ref=e6]
+      - heading "Hello, angular-ssr-demo" [level=1] [ref=e10]
+      - paragraph [ref=e11]: Congratulations! Your app is running. 🎉
+    - separator "Divider" [ref=e12]
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - link "Explore the Docs" [ref=e15] [cursor=pointer]:
+          - /url: https://angular.dev
+          - generic [ref=e16]: Explore the Docs
+          - img [ref=e17]
+        - link "Learn with Tutorials" [ref=e19] [cursor=pointer]:
+          - /url: https://angular.dev/tutorials
+          - generic [ref=e20]: Learn with Tutorials
+          - img [ref=e21]
+        - link "CLI Docs" [ref=e23] [cursor=pointer]:
+          - /url: https://angular.dev/tools/cli
+          - generic [ref=e24]: CLI Docs
+          - img [ref=e25]
+        - link "Angular Language Service" [ref=e27] [cursor=pointer]:
+          - /url: https://angular.dev/tools/language-service
+          - generic [ref=e28]: Angular Language Service
+          - img [ref=e29]
+        - link "Angular DevTools" [ref=e31] [cursor=pointer]:
+          - /url: https://angular.dev/tools/devtools
+          - generic [ref=e32]: Angular DevTools
+          - img [ref=e33]
+      - generic [ref=e35]:
+        - link "Github" [ref=e36] [cursor=pointer]:
+          - /url: https://github.com/angular/angular
+          - img [ref=e37]
+        - link "Twitter" [ref=e39] [cursor=pointer]:
+          - /url: https://twitter.com/angular
+          - img [ref=e40]
+        - link "Youtube" [ref=e42] [cursor=pointer]:
+          - /url: https://www.youtube.com/channel/UCbn1OgGei-DV7aSRo_HaAiw
+          - img [ref=e43]

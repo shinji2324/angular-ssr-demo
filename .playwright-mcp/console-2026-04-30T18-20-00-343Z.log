@@ -1,0 +1,24 @@
+[ 2428759ms] [ERROR] ERROR NullInjectorError: R3InjectorError[t -> e -> e]: 
+  NullInjectorError: No provider for e!
+    at _n.get (http://localhost:4000/chunk-LZEJNFN6.js:7:405)
+    at _t.get (http://localhost:4000/chunk-LZEJNFN6.js:7:9336)
+    at _t.get (http://localhost:4000/chunk-LZEJNFN6.js:7:9336)
+    at dd (http://localhost:4000/chunk-LZEJNFN6.js:4:2343)
+    at k (http://localhost:4000/chunk-LZEJNFN6.js:4:2419)
+    at Object.ɵfac [as factory] (http://localhost:4000/chunk-GLMY5X4S.js:1:307)
+    at _t.hydrate (http://localhost:4000/chunk-LZEJNFN6.js:7:10125)
+    at _t.get (http://localhost:4000/chunk-LZEJNFN6.js:7:9252)
+    at co.get (http://localhost:4000/chunk-LZEJNFN6.js:7:18369)
+    at hc (http://localhost:4000/chunk-LZEJNFN6.js:7:19991) @ http://localhost:4000/chunk-LZEJNFN6.js:6
+[ 2469800ms] [ERROR] ERROR NullInjectorError: R3InjectorError[t -> e -> e]: 
+  NullInjectorError: No provider for e!
+    at _n.get (http://localhost:4000/chunk-LZEJNFN6.js:7:405)
+    at _t.get (http://localhost:4000/chunk-LZEJNFN6.js:7:9336)
+    at _t.get (http://localhost:4000/chunk-LZEJNFN6.js:7:9336)
+    at dd (http://localhost:4000/chunk-LZEJNFN6.js:4:2343)
+    at k (http://localhost:4000/chunk-LZEJNFN6.js:4:2419)
+    at Object.ɵfac [as factory] (http://localhost:4000/chunk-GLMY5X4S.js:1:307)
+    at _t.hydrate (http://localhost:4000/chunk-LZEJNFN6.js:7:10125)
+    at _t.get (http://localhost:4000/chunk-LZEJNFN6.js:7:9252)
+    at co.get (http://localhost:4000/chunk-LZEJNFN6.js:7:18369)
+    at hc (http://localhost:4000/chunk-LZEJNFN6.js:7:19991) @ http://localhost:4000/chunk-LZEJNFN6.js:6

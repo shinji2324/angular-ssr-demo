@@ -1,0 +1,25 @@
+[     703ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://alm.serpro/rm/web#action=com.ibm.rdm.web.pages.showProjectDashboard&componentURI=https%3A%2F%2Falm.serpro%2Frm%2Frm-projects%2F_dYKhQAA0EfC8pqUPo7lq-w%2Fcomponents%2F_dfOykAA0EfC8pqUPo7lq-w&viewType=all&vvc.configuration=https%3A%2F%2Falm.serpro%2Frm%2Fcm%2Fstream%2F_dfvv8AA0EfC8pqUPo7lq-w:0
+[    1468ms] [ERROR] The Content-Security-Policy directive 'frame-ancestors' does not support the source expression 'http://nao_remover_url:8080' @ https://login.serpro.gov.br/auth/realms/serpro/protocol/openid-connect/auth?response_type=code&client_id=99456_alm&state=001777574144311JT74nTMte&redirect_uri=https%3A%2F%2Falm.serpro%2Fibm%2Fapi%2Fsocial-login%2Fredirect%2FloginUnico&scope=openid+profile+cpf:0
+[    2765ms] [ERROR] The Content-Security-Policy directive 'frame-ancestors' does not support the source expression 'http://nao_remover_url:8080' @ https://js.hcaptcha.com/1/api.js?onload=addBadge:3
+[    2768ms] [ERROR] The Content-Security-Policy directive 'frame-ancestors' does not support the source expression 'http://nao_remover_url:8080' @ https://js.hcaptcha.com/1/api.js?onload=addBadge:3
+[   57613ms] [WARNING] dojox.form.uploader.plugins.HTML5 has been removed. You can use Uploader directly and it will contain all necessary functionality. @ https://alm.serpro/rm/web/_js/?include=B~&etag=2Z01Druw7i_pt_BR&_proxyURL=%2Frm&ss=dwIGj&locale=pt-br:141098
+[   57613ms] [WARNING] dojox.form.uploader.plugins.IFrame has been removed. You can use Uploader directly and it will contain all necessary functionality. @ https://alm.serpro/rm/web/_js/?include=B~&etag=2Z01Druw7i_pt_BR&_proxyURL=%2Frm&ss=dwIGj&locale=pt-br:141104
+[   58453ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://alm.serpro/rm/survey-properties:0
+[  175911ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://alm.serpro/rm/locks?artifactURI=https://alm.serpro/rm/resources/TX_H9f8IAN5EfC8pqUPo7lq-w&dojo.preventCache=1777574318839:0
+[  175911ms] [ERROR] _6 @ https://alm.serpro/rm/web/_js/?include=B~&etag=2Z01Druw7i_pt_BR&_proxyURL=%2Frm&ss=dwIGj&locale=pt-br:5978
+[  175912ms] [ERROR] _6 @ https://alm.serpro/rm/web/_js/?include=B~&etag=2Z01Druw7i_pt_BR&_proxyURL=%2Frm&ss=dwIGj&locale=pt-br:32727
+[  184958ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://alm.serpro/rm/locks?artifactURI=https://alm.serpro/rm/resources/TX_yKnCoAv_EfC8pqUPo7lq-w&dojo.preventCache=1777574327960:0
+[  184958ms] [ERROR] _6 @ https://alm.serpro/rm/web/_js/?include=B~&etag=2Z01Druw7i_pt_BR&_proxyURL=%2Frm&ss=dwIGj&locale=pt-br:5978
+[  184958ms] [ERROR] _6 @ https://alm.serpro/rm/web/_js/?include=B~&etag=2Z01Druw7i_pt_BR&_proxyURL=%2Frm&ss=dwIGj&locale=pt-br:32727
+[  190126ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://alm.serpro/rm/locks?artifactURI=https://alm.serpro/rm/resources/TX_3qrGEAP1EfC8pqUPo7lq-w&dojo.preventCache=1777574333076:0
+[  190126ms] [ERROR] _6 @ https://alm.serpro/rm/web/_js/?include=B~&etag=2Z01Druw7i_pt_BR&_proxyURL=%2Frm&ss=dwIGj&locale=pt-br:5978
+[  190127ms] [ERROR] _6 @ https://alm.serpro/rm/web/_js/?include=B~&etag=2Z01Druw7i_pt_BR&_proxyURL=%2Frm&ss=dwIGj&locale=pt-br:32727
+[  243403ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://alm.serpro/rm/locks?artifactURI=https://alm.serpro/rm/resources/TX_yKnCoAv_EfC8pqUPo7lq-w&dojo.preventCache=1777574386326:0
+[  243404ms] [ERROR] _6 @ https://alm.serpro/rm/web/_js/?include=B~&etag=2Z01Druw7i_pt_BR&_proxyURL=%2Frm&ss=dwIGj&locale=pt-br:5978
+[  243405ms] [ERROR] _6 @ https://alm.serpro/rm/web/_js/?include=B~&etag=2Z01Druw7i_pt_BR&_proxyURL=%2Frm&ss=dwIGj&locale=pt-br:32727
+[  253062ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://alm.serpro/rm/locks?artifactURI=https://alm.serpro/rm/resources/TX_LWFFEAipEfC8pqUPo7lq-w&dojo.preventCache=1777574396060:0
+[  253062ms] [ERROR] _6 @ https://alm.serpro/rm/web/_js/?include=B~&etag=2Z01Druw7i_pt_BR&_proxyURL=%2Frm&ss=dwIGj&locale=pt-br:5978
+[  253062ms] [ERROR] _6 @ https://alm.serpro/rm/web/_js/?include=B~&etag=2Z01Druw7i_pt_BR&_proxyURL=%2Frm&ss=dwIGj&locale=pt-br:32727
+[  255363ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://alm.serpro/rm/locks?artifactURI=https://alm.serpro/rm/resources/TX_P4UBIAN6EfC8pqUPo7lq-w&dojo.preventCache=1777574398347:0
+[  255363ms] [ERROR] _6 @ https://alm.serpro/rm/web/_js/?include=B~&etag=2Z01Druw7i_pt_BR&_proxyURL=%2Frm&ss=dwIGj&locale=pt-br:5978
+[  255363ms] [ERROR] _6 @ https://alm.serpro/rm/web/_js/?include=B~&etag=2Z01Druw7i_pt_BR&_proxyURL=%2Frm&ss=dwIGj&locale=pt-br:32727
